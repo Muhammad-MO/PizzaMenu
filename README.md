@@ -1,10 +1,27 @@
 # PizzaMenu
 
+<h2>About this Project<h2>
 This Project uses React to create a simple pizza menu
 
-Working on this project reinforces my understanding of functional components, JSX elements, rendering data to the client side and properties
-It also further cements my knowledge of Javascriot CSS and HTML all of which are critical tools in todays web development
+<h2>What I benefited from this exeries</h2>
+
+Working on this project reinforces my understanding of the following React comcepts
+
+1. Functional components
+2. JSX elements,
+3. Rendering data to the client side and
+4. Properties
+5. Conditionl Rendering with && operators
+6. Conditional Rendering with Ternaries
+   It also further cements my knowledge of Javascriot CSS and HTML all of which are critical tools in todays web development
+   7.Styling of React Applications
+7. Renderig lists
 
 This applicaion is currently being buult and this he Readme file will get updated continuously
+
+<h2>Resouces</h2>
+
+1. <a href="https://www.w3schools.com/react/default.asp" target="blank">W3 Schools</a>
+2. <a href="https://stackoverflow.com/search?q=react&s=8491947b-fcec-4412-ad88-358e2484e05b" target="blank">Stackoverflow</a>
 
 ![picture](pizza-menu/screenshot/pizzascreenshot1.png)
