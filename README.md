@@ -7,4 +7,4 @@ It also further cements my knowledge of Javascriot CSS and HTML all of which are
 
 This applicaion is currently being buult and this he Readme file will get updated continuously
 
-![picture](screenshot/pizzascreenshot.png)
+![picture](pizza-menu/screenshot/pizzascreenshot.png)
