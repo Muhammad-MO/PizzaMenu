@@ -1,6 +1,6 @@
 # PizzaMenu
 
-<h2>About this Project<h2>
+<h2>About this Project</h2>
 This Project uses React to create a simple pizza menu
 
 <h2>What I benefited from this exeries</h2>
