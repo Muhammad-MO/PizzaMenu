@@ -3,7 +3,7 @@
 <h2>About this Project</h2>
 This Project uses React to create a simple pizza menu
 
-<h2>What I benefited from this exeries</h2>
+<h2>What I benefited from this exercise</h2>
 
 Working on this project reinforces my understanding of the following React comcepts
 
@@ -16,6 +16,9 @@ Working on this project reinforces my understanding of the following React comce
    It also further cements my knowledge of Javascriot CSS and HTML all of which are critical tools in todays web development
    7.Styling of React Applications
 7. Renderig lists
+8. React Fragment
+9. Conditional text and classes
+10. Conditional rendering with ternary operators and multiple returns
 
 This applicaion is currently being buult and this he Readme file will get updated continuously
 
