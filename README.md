@@ -28,3 +28,4 @@ This applicaion is currently being buult and this he Readme file will get update
 2. <a href="https://stackoverflow.com/search?q=react&s=8491947b-fcec-4412-ad88-358e2484e05b" target="blank">Stackoverflow</a>
 
 ![picture](pizza-menu/screenshot/pizzascreenshot1.png)
+![picture](pizza-menu/screenshot/pizzascreenshot2.png)
